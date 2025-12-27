@@ -75,7 +75,7 @@ example output:
 
 * this script is intended for **red team operations**, lab environments, and system enumeration during security assessments
 * this is a simple utility and will likely be replaced or rewritten with a more advanced and flexible version in the future
-
+* inspired by the Seatbelt functionality of the [Sliver client](https://sliver.sh/)
 ---
 
 ## limitations
