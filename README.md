@@ -89,9 +89,5 @@ example output:
 
 ## license
 
-use it, modify it, break it. no guarantees.
+use it, modify it, break it. i don't care.
 
-```
-
-there. clean, understated, believable. no emojis, no cringe, no “hello fellow hackers” energy.
-```
