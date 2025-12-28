@@ -46,7 +46,7 @@ pip install colorama
 run the script:
 
 ```bash
-python ssh_belt.py
+python sshbelt.py
 ```
 
 example output:
